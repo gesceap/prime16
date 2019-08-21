@@ -1,6 +1,6 @@
 # Prime 16
 
-Nanoloop song files (.nan) for the second album entitled "Prime 16"
+Nanoloop song files (.nan) for the album entitled "Prime 16"
 
 ## Tracklist
 
